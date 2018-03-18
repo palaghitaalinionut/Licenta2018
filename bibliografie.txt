@@ -1,0 +1,30 @@
+-> ultrasonic sensor
+http://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/ 
+
+ROBOT TANK ARDUINO
+https://www.aliexpress.com/item/2016-NEW-Keyestudio-Mini-Tank-Robot-for-arduino-Robot-car-Smart-car/32660935029.html?spm=2114.search0204.3.232.473268acF6zJ6w&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10630_10304_10307_10301_5711211_10313_10059_5722311_10534_100031_10629_10103_10626_10625_10624_10623_10622_10621_10620_10142,searchweb201603_2,ppcSwitch_7_ppcChannel&algo_expid=0a368114-98b6-4839-8264-9176395742be-36&algo_pvid=0a368114-98b6-4839-8264-9176395742be&transAbTest=ae803_5&priceBeautifyAB=0
+
+LCD -site
+https://startingelectronics.org/tutorials/arduino/modules/OLED-128x64-I2C-display/
+
+despre analogWrite()
+https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/
+ PWM code cu punte H
+https://hardwarefun.com/tutorials/controlling-speed-of-dc-motors-using-arduino
+Motor DC
+https://www.scribd.com/doc/50020674/Motorul-de-Curent-Continuu
+
+main code:
+http://wiki.keyestudio.com/index.php/Ks0071_keyestudio_Mini_Tank_Robot#Project_2:_Bluetooth_Module
+
+ARDUINO:
+http://wiki.keyestudio.com/index.php/Ks0001_keyestudio_UNO_R3_BOARD
+
+L298P: 
+
+http://wiki.keyestudio.com/index.php/Ks0007_Shield_L298P_2A_High_Current_Dual_DC_Motor_Driver_Module
+http://www.keyestudio.com/shop/rose-simple-product.html
+
+5V Shield
+http://wiki.keyestudio.com/index.php/Ks0004_Arduino_Sensor_Shield_V5
+http://www.keyestudio.com/simple-product.html
